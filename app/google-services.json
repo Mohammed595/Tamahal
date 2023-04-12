@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1074735281579",
+    "firebase_url": "https://getdatafrompython-9369f-default-rtdb.firebaseio.com",
+    "project_id": "getdatafrompython-9369f",
+    "storage_bucket": "getdatafrompython-9369f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074735281579:android:256e75622f7288a925ceee",
+        "android_client_info": {
+          "package_name": "com.example.tamahal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074735281579-2amoua5t2rcqm4jnvub6v9mebnp09k7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdOH5IJhXlOaXVSUbxmGfB4HVYEb4Aoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074735281579-2amoua5t2rcqm4jnvub6v9mebnp09k7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074735281579:android:d14d27df5457e0f625ceee",
+        "android_client_info": {
+          "package_name": "com.example.testonprojectcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074735281579-2amoua5t2rcqm4jnvub6v9mebnp09k7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdOH5IJhXlOaXVSUbxmGfB4HVYEb4Aoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074735281579-2amoua5t2rcqm4jnvub6v9mebnp09k7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
